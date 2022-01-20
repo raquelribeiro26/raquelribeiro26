@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá, eu sou a Raquel Ribeiro👋
 
-<!--
-**raquelribeiro26/raquelribeiro26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com Desenvolvimento Mobile Android
+- 🌱 Estudando Kotlin
+- 😄 Pronomes: Ela / Dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+### Hi there, I am Raquel Ribeiro 👋
+
+- 🔭 I’m currently working on Android mobile development
+- 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: She / Her
+
+
+<div align="center">
+  <a href="https://github.com/raquelribeiro26">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelribeiro26&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelribeiro26&layout=compact&langs_count=7&theme=dracula"/>
+</div>
