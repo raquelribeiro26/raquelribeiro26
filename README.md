@@ -32,3 +32,10 @@
   <img align="center" alt="Kel-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">   
   <img align="right" alt="Kel-Pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/CY-OVACpZe6cXIu_C9PhGo-5aogRwaQU04adEk0/">
 </div>
+
+  
+  
+ <div
+      ![Snake animation](https://github.com/raquelribeiro26/raquelribeiro26/blob/output/github-contribution-grid-snake.svg)
+      
+</div>
