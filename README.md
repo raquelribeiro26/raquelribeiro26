@@ -2,14 +2,14 @@
 
 
 - 🔭 Hoje trabalho com Desenvolvimento Mobile Android
-- 🌱 Estudando Kotlin e Java
+- 🌱 Estudando Android, Kotlin e Java
 - 😄 Pronomes: Ela / Dela
 
 
 ### Hi there, I am Raquel Ribeiro 👋
 
 - 🔭 I’m currently working on Android mobile development
-- 🌱 I’m currently learning Kotlin and Java
+- 🌱 I’m currently learning Android, Kotlin and Java
 - 😄 Pronouns: She / Her
 
 
